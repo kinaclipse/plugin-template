@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "sillyname",
+    "description": "sillydesc",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "icebro",
+            "id": "348948826981400576"
         }
     ],
     "main": "src/index.ts",

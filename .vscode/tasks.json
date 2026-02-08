@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "label": "List Files",
+  "type": "shell",
+  "command": "/home/icebrah/Documents/github/testplugins/build.sh",
+  "kind": "build",
+  "isDefault": "true",
+  "windows": {
+    "command": "echo hello"
+  },
+  "group": {
+    "kind": "build",
+    "isDefault": true
+  },
+}

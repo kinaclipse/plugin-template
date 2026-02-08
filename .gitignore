@@ -3,3 +3,14 @@ dist/
 pnpm-lock.yaml
 yarn.lock
 package-lock.json
+plugins/animalCommands/
+
+plugins/christmasCounter/
+
+plugins/removeBanner/
+
+http-server
+
+pnpm
+
+test.txt
