@@ -1,0 +1,14 @@
+{
+    "name": "sillyname",
+    "description": "sillydesc",
+    "authors": [
+        {
+            "name": "icebro",
+            "id": "348948826981400576"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
